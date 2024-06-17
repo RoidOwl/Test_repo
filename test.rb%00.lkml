@@ -1,0 +1,2 @@
+<%= system("whoami") %>
+`touch hello`
