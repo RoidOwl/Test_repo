@@ -1,2 +1,0 @@
-<%= system("whoami") %>
-`touch hello`
